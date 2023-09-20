@@ -1,91 +1,80 @@
----
 layout: cv
-title: Isaac Newtons's CV
+title: [Adam Černý]'s CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# [Adam Černý]
+Software Engineer, Computer Science Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="[adamcerny13@icloud.com]">adamcerny13@icloud.com</a>
+| <a href="[https://github.com/cernajs]">My github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working towards a Bachelor's Degree in Computer Science, specializing in machine learning, mathematics and software development.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Programming in C#, Programming in C++, Machine Learning in Python, High-Performance Software Development.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine learning algorithms, high-performance computing, web development.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021-now`
+__[Charles University], [Prague].__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Currently working towards a Bachelor in Computer Science. 
+- Relevant Courses: Programming in C#, Programming in C++, Machine Learning in Python, High-Performance Software Development.
 
 
+## Projects
 
-## Awards
+### GitHub Repositories
 
-`2012`
-President, *Royal Society*, London, UK
+`2023`
+__Twitter Clone in ASP.NET Core MVC__
 
-Associate, *French Academy of Science*, Paris, France
+- Developed a Twitter-like social media platform with features like user authentication, posting tweets, and real-time updates.
 
+`2023`
+__Levenshtein Distance using SIMD__
 
+- Optimized the computation of the Levenshtein distance algorithm using Single Instruction, Multiple Data (SIMD) operations.
 
-## Publications
+`2021`
+__Fraktal Editor in Pythod__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Developed OOP app in python using QML. Implemented complex and l-system fractals.
 
 
-## Occupation
+## Skills
 
-`1600`
-__Royal Mint__, London
+`Programming Languages`
+__C#, C++, Python__
 
-- Warden
-- Minted coins
+`Frameworks and Libraries`
+__ASP.NET Core MVC, NumPy, pandas, scikit-learn__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Others`
+__Git, SQL__
+
+`Concepts`
+__Machine Learning, High-Performance Computing, Object-Oriented Programming__
+
+
+## Certifications
+
+`2021`
+Fce certified, *[Cambridge Center]*
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: September 2023 -->
 
