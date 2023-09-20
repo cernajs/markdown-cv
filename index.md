@@ -70,7 +70,7 @@ __Machine Learning, High-Performance Computing, Object-Oriented Programming__
 ## Certifications
 
 `2021`
-Fce certificate, *[Cambridge Center]*
+certificate English B2 (FCE), *[Cambridge Center]*
 
 
 
