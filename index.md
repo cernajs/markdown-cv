@@ -47,7 +47,7 @@ __Levenshtein Distance using SIMD__
 - Optimized the computation of the Levenshtein distance algorithm using Single Instruction, Multiple Data (SIMD) operations.
 
 `2021`
-__Fraktal Editor in Pythod__
+__Fraktal Editor in Python__
 
 - Developed OOP app in python using QML. Implemented complex and l-system fractals.
 
@@ -70,7 +70,7 @@ __Machine Learning, High-Performance Computing, Object-Oriented Programming__
 ## Certifications
 
 `2021`
-Fce certified, *[Cambridge Center]*
+Fce certificate, *[Cambridge Center]*
 
 
 
